@@ -3,7 +3,7 @@
 <!-- README.md -->
 
 <!-- =============== TEch Stack =============== -->
-<h1 align="center">🛠️ Tech Stack 🛠️</h1>
+<h2 align="center">🛠️ Tech Stack 🛠️</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -16,7 +16,7 @@
 </p>
 
 <!-- =============== Tools =============== -->
-<h1 align="center">🔧 Tools 🔧</h1>
+<h2 align="center">🔧 Tools 🔧</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
@@ -35,5 +35,3 @@
   <!-- BOJ Solved.ac / rank card -->
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dppfls" alt="BOJ Rank Badge" />
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dppfls&layout=compact)
